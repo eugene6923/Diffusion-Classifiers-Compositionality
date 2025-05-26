@@ -2,7 +2,7 @@
 
 **Diffusion Classifiers Understand Compositionality — but Conditions Apply**
 
-- 📄 **Paper coming soon** 
+- 📄 **Paper:** [Here](https://arxiv.org/abs/2505.17955)
 - 🚧 **Code coming soon**
 - 📂 **Dataset released:** [Self-Bench on Hugging Face](https://huggingface.co/datasets/eugene6923/Self-Bench/tree/main/Self-Bench-Upload)
 
