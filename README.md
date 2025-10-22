@@ -3,6 +3,8 @@
 
 This project provides a framework for evaluating diffusion models on a wide range of image-text matching tasks. It supports multiple Stable Diffusion versions and various benchmark datasets.
 
+## Datasets
+
 ## Supported Models
 
 The framework supports the following model versions:
