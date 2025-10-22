@@ -5,6 +5,8 @@ This project provides a framework for evaluating diffusion models on a wide rang
 
 ## Datasets
 
+[Self-Bench on Hugging Face](https://huggingface.co/datasets/eugene6923/Self-Bench/tree/main/Self-Bench-Upload)
+
 ## Supported Models
 
 The framework supports the following model versions:
